@@ -17,7 +17,6 @@ namespace LIU
             foreach (var i in MinimumEndTime(Activities.Count))
                 Console.Write(i + " ");
             Console.WriteLine("Optimized Time =  " + MinimizeMaxWorkTime());
-            Console.ReadKey();
         }
 
         private void SetActivities()

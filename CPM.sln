@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPMForms", "CPMForms\CPMForms.csproj", "{FAB77884-EAEB-48D4-B6A2-D5F6FFD98BC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIU", "LIU\LIU.csproj", "{CE6759C8-CDCB-4D8E-BC1F-FE40B662B64E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LIU", "LIU\LIU.csproj", "{CE6759C8-CDCB-4D8E-BC1F-FE40B662B64E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIUForms", "LIUForms\LIUForms.csproj", "{6A6AB2F2-FEF3-4B19-8E87-7CF714739D2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CE6759C8-CDCB-4D8E-BC1F-FE40B662B64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE6759C8-CDCB-4D8E-BC1F-FE40B662B64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE6759C8-CDCB-4D8E-BC1F-FE40B662B64E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A6AB2F2-FEF3-4B19-8E87-7CF714739D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6AB2F2-FEF3-4B19-8E87-7CF714739D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6AB2F2-FEF3-4B19-8E87-7CF714739D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6AB2F2-FEF3-4B19-8E87-7CF714739D2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
